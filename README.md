@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiaoyou Fung</h1>
-<h3 align="center">A 2.5-year Software Engineer student + freelance full-stack developer</h3>
+<h3 align="center">A 2.5-year Software Engineer student + freelance full-stack developer</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyoufung&label=Profile%20views&color=008cb4&style=flat-square" alt="xiaoyoufung"/></p>
  
 <h3 align="left">Languages and Tools:</h3>
