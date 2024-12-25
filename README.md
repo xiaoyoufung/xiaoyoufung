@@ -11,8 +11,10 @@
 | Database | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   |
 | DevOps | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)     |
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaoyoufung&show_icons=true&theme=dark&locale=en&layout=compact" alt="xiaoyoufung" /></p>
+<h3 align="left">Statistics:</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoyoufung&show_icons=true&theme=dark&locale=en" alt="xiaoyoufung" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaoyoufung&show_icons=true&theme=dark&locale=en&layout=compact" alt="xiaoyoufung" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoyoufung&show_icons=true&theme=dark&locale=en" alt="xiaoyoufung" />&nbsp;</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyoufung&theme=dark" alt="xiaoyoufung" /></p>
+<p align="center">&nbsp;</p>
+
+<p align="center"></p>
