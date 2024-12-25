@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyoufung&label=Profile%20views&color=008cb4&style=flat-square" alt="xiaoyoufung"/></p>
   
 <h3 align="left">Languages and Tools:</h3>
+| Skill | List |
+|------:|-------|
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaoyoufung&show_icons=true&theme=dark&locale=en&layout=compact" alt="xiaoyoufung" /></p>
 
