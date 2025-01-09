@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Xiaoyou Fung</h1>
 <h3 align="center">A 2.5-year Software Engineer student + freelance full-stack developer</h3>
+
+<h3 align="left">About me:</h3>
 <p align="center"> 
 
 - 📄 I love **making code documentation**
-- 🌱 Fun fact **Obsessed with  making a clean UI**
+- 🌱 I'm **obsessed with  making a clean UI**
 - 👨‍💻 Have some experience with **Blockchain, IoT, and Machine Learning**
  </p>
+
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyoufung&label=Profile%20views&color=008cb4&style=flat-square" alt="xiaoyoufung"/></p>
@@ -22,7 +26,6 @@
 
 <h1></h1>
 <h3 align="left">Statistics:</h3>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaoyoufung&show_icons=true&theme=dark&locale=en&layout=compact" alt="xiaoyoufung" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoyoufung&show_icons=true&theme=dark&locale=en" alt="xiaoyoufung" />&nbsp;</p>
 
 <p align="center">&nbsp;</p>
