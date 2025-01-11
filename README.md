@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiaoyou Fung</h1>
-<h3 align="center">A 2.5-year Software Engineer student + freelance full-stack developer</h3>
+<h3 align="center">A 2.5-year Software Engineer student + Freelance full-stack developer</h3>
 
 <h3 align="left">About me:</h3>
 <p align="center"> 
