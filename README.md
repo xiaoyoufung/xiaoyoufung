@@ -4,7 +4,7 @@
 <h3 align="left">About me:</h3>
 <p align="center"> 
 
-- 📄 I love **making code documentation**
+- 📄 I love **making documentation**
 - 🌱 I'm **obsessed with  designing a good & clean UXUI**
 - 👨‍💻 Have some experience with **Blockchain, IoT, and Machine Learning**
  </p>
