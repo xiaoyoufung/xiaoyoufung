@@ -30,6 +30,4 @@
 
 <p align="center">&nbsp;</p>
 
-<p align="center"></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyoufung&theme=dark" alt="xiaoyoufung" /></p>
