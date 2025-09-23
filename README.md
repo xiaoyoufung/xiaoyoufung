@@ -3,7 +3,8 @@
 
 <h3 align="left">About me:</h3>
 <p align="center"> 
-
+ 
+- 💡 I am currently working on my own startup as the **FOUNDER**.
 - 📄 I love **making documentation**
 - 🌱 I'm **obsessed with  designing a clean UXUI**
 - 👨‍💻 Have some experience with **Blockchain, IoT, and Machine Learning**
