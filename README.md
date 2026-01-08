@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiaoyou Fung</h1>
-<h3 align="center">A 3.5-year Software Engineer student + CEO of SkinNavi + Freelance full-stack developer</h3>
+<h3 align="center">A 3.5-year SWE student + CEO of SkinNavi + Freelance full-stack dev</h3>
 
 <h3 align="left">About me:</h3>
 <p align="center"> 
