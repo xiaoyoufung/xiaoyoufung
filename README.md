@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xiaoyou Fung</h1>
-<h3 align="center">A 3.5-year SWE student + CEO of SkinNavi + Freelance full-stack dev</h3>
+<h3 align="center">A creative innovator who loves to develop new ideas and bring them to life using technology.</h3>
 
 <h3 align="left">About me:</h3>
 <p align="center"> 
  
 - 💡 I am currently working on my own startup as the **FOUNDER**.
-- 📄 I love **making documentation**
-- 🌱 I'm **obsessed with  designing a clean UXUI**
+- 🗒️ **Jack of all trades, master of none**
 - 👨‍💻 Have some experience with **Blockchain, IoT, and Machine Learning**
  </p>
 
