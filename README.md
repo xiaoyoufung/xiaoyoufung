@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiaoyou Fung</h1>
-<h3 align="center">A creative innovator who loves to develop new ideas and bring them to life using technology.</h3>
+<h3 align="center">A creative innovator who loves to bring new ideas to life using dev skills</h3>
 
 <h3 align="left">About me:</h3>
 <p align="center"> 
