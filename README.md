@@ -4,8 +4,8 @@
 <h3 align="left">About me:</h3>
 <p align="center"> 
  
+- 🦆 **Jack of all trades, master of none**
 - 💡 I am currently working on my own startup as the **FOUNDER**.
-- 🗒️ **Jack of all trades, master of none**
 - 👨‍💻 Have some experience with **Blockchain, IoT, and Machine Learning**
  </p>
 
